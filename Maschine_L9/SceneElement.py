@@ -1,4 +1,3 @@
-#Embedded file name: C:\ProgramData\Ableton\Live 9 Beta\Resources\MIDI Remote Scripts\Maschine_Mk1\SceneElement.py
 import Live
 import time
 from _Framework.ButtonElement import *

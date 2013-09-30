@@ -1,4 +1,3 @@
-#Embedded file name: C:\ProgramData\Ableton\Live 9 Beta\Resources\MIDI Remote Scripts\Maschine_Mk1\MIDI_Map.py
 from PadScale import PadScale
 USE_DISPLAY = False
 PM_OFF = 0

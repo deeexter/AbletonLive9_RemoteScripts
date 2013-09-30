@@ -1,4 +1,3 @@
-#Embedded file name: C:\ProgramData\Ableton\Live 9 Beta\Resources\MIDI Remote Scripts\Maschine_Mk1\SceneMatrix.py
 import Live
 from _Framework.ButtonElement import *
 from _Framework.CompoundComponent import *

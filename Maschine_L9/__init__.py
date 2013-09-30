@@ -1,4 +1,3 @@
-#Embedded file name: C:\ProgramData\Ableton\Live 9 Beta\Resources\MIDI Remote Scripts\Maschine_Mk1\__init__.py
 from Maschine import Maschine
 
 def create_instance(c_instance):

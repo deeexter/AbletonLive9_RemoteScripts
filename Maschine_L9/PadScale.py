@@ -1,6 +1,3 @@
-#Embedded file name: C:\ProgramData\Ableton\Live 9 Beta\Resources\MIDI Remote Scripts\Maschine_Mk1\PadScale.py
-
-
 class PadScale:
     __module__ = __name__
     __doc__ = ' scale '
